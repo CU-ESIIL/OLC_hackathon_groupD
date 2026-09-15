@@ -20,7 +20,7 @@ public_mode_toggle: true
 
     [Edit the team page in Markdown](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
-*One sentence describing the question, place, or possibility your team is exploring.*
+Mining is flooding our aquifers with radioactive isotopes, and it affects our health.
 
 ![Team hero image](assets/hero/whiterivergrouppic.png)
 
@@ -42,10 +42,10 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Starting role |
 |---|---|---|---|
-|  |  |  |  |
-Tonia Stands
-Sam Stands
-Harlen Standing Bear Jr
+|  |  |  | 
+Tonia Stands|    |    |researcher
+Sam Stands|    |     | researcher
+Harlen Standing Bear Jr|     |     |researcher
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
 !!! note "Keep this fast"
