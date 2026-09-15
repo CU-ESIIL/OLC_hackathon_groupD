@@ -43,7 +43,9 @@ public_mode_toggle: true
 | Name | Affiliation | Contact | Starting role |
 |---|---|---|---|
 |  |  |  |  |
-
+Tonia Stands
+Sam Stands
+Harlen Standing Bear Jr
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
 !!! note "Keep this fast"
