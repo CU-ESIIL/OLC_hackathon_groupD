@@ -53,7 +53,8 @@ Harlen Standing Bear Jr|     |     |editor
 
 Our team norms:
 
--decipher radionuclide readings from natural and synthetic
+-work together
+-have fun
 
 
 
