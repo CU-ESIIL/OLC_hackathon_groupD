@@ -53,15 +53,15 @@ Harlen Standing Bear Jr
 
 Our team norms:
 
-- Tonia Stands
-- Sam Stands
-- Harlen Standing Bear Jr
+-
+-
+-
 
 Our decision rule:
 
 ...
 
-## Our Question 📣 { #project-question .oasis-report-out-section }
+## What is the isotope count in our aquifer? 📣 { #project-question .oasis-report-out-section }
 
 !!! note "Question → Evidence"
     Write one question narrow enough to investigate during the Hackathon. Name what would count as progress. The question can change when the evidence shows it should.
