@@ -94,8 +94,7 @@ finding a way to have testing at all types of waterways.
 
 This matters because:
 
-Health deterioration. 
-
+the health of the younger generation is at risk. with long term exposure to these radioactive isotopes the risks of cancer as well as breathing problems, these can all happen from the air and water. in recent years they started moving equipment and other things by air which carry these isotopes with them.
 People who might use, question, or improve this work:
 
 ...
