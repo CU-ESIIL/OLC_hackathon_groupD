@@ -54,10 +54,11 @@ Harlen Standing Bear Jr|     |     |researcher
 Our team norms:
 
 -decipher radionuclide readings from natural and synthetic
--
--
+
+
 
 Our decision rule:
+
 
 
 
@@ -79,7 +80,8 @@ Our working question:
 What are the health implications of finding radioactive isotopes in our aquifers?
 
 What would count as progress by noon on September 16:
-finding a way to have testing at all types of waterways.
+
+Finding a way to have testing at all types of waterways.
 
 
 !!! question "Sovereignty checkpoint 1 — Who framed the question?"
