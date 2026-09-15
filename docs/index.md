@@ -85,7 +85,7 @@ finding a way to have testing at all types of waterways.
 !!! question "Sovereignty checkpoint 1 — Who framed the question?"
     Who helped define it? Whose priorities does it reflect? Who might frame it differently? Do the available public data fit the question, or are they merely convenient?
 
-    Record unresolved answers honestly. Completing this prompt is not sovereignty certification or a substitute for a locally appropriate data-governance process.
+    Record unresolved answers honestly. Completing this prompt is not a sovereignty certification or a substitute for a locally appropriate data-governance process.
 
 ## Why This Matters 📣 { #why-this-matters .oasis-report-out-section }
 
@@ -94,7 +94,7 @@ finding a way to have testing at all types of waterways.
 
 This matters because:
 
-the health of the younger generation is at risk. with long term exposure to these radioactive isotopes the risks of cancer as well as breathing problems, these can all happen from the air and water. in recent years they started moving equipment and other things by air which carry these isotopes with them.
+The health of the younger generation is at risk. With long-term exposure to these radioactive isotopes, there are risks of cancer as well as breathing problems, which can all happen from the air and water. In recent years, they have started moving equipment and other items by air, which carries these isotopes with it.
 People who might use, question, or improve this work:
 
 ...
@@ -108,7 +108,7 @@ People who might use, question, or improve this work:
 
 By the end of the Hackathon, we tried to make:
 
-...
+A better way of understanding the effects of radioactive isotopes in our aquifers.
 
 Our chosen pathway and why it fit:
 
