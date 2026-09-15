@@ -22,7 +22,7 @@ public_mode_toggle: true
 
 *One sentence describing the question, place, or possibility your team is exploring.*
 
-![Team hero image](assets/hero/hero.png)
+![Team hero image](assets/hero/whiterivergrouppic.png)
 
 !!! note "Replace the hero image"
     Upload a wide public-safe image to `docs/assets/hero/` and replace `hero.png`, or update the Markdown path above. Write alt text that explains the image.
