@@ -51,9 +51,9 @@ public_mode_toggle: true
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- Tonia Stands
+- Sam Stands
+- Harlen Standing Bear Jr
 
 Our decision rule:
 
