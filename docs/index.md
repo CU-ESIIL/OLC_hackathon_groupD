@@ -53,13 +53,13 @@ Harlen Standing Bear Jr
 
 Our team norms:
 
--
+-decipher radionuclide readings from natural and synthetic
 -
 -
 
 Our decision rule:
 
-...
+
 
 ## What is the isotope count in our aquifer? 📣 { #project-question .oasis-report-out-section }
 
@@ -94,7 +94,7 @@ What would count as progress by noon on September 16:
 
 This matters because:
 
-...
+Health deterioration. 
 
 People who might use, question, or improve this work:
 
