@@ -140,7 +140,7 @@ Our chosen pathway and why it fit:
     This Hackathon uses public datasets so teams can focus on environmental data science, building, interpretation, and communication during a short event. Public availability does not mean the data represent every relevant perspective or authorize every interpretation or use.
 
     **Accessible ≠ interpretable ≠ actionable**
-
+https://www.researchgate.net/profile/Michael-Campbell-30/publication/305904748/figure/fig3/AS:392018984488966@1470476017389/Wyoming-plus-South-Dakota-and-Nebraska-Uranium-Exploration-and-Mining-Areas-From_W640.jpg
     - **Accessible:** Can we obtain and analyze the data?
     - **Interpretable:** What claims can the observations support?
     - **Actionable:** Is there enough evidence, context, relationship, review, and authority for a real decision?
