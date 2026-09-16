@@ -111,7 +111,7 @@ People who might use, question, or improve this work:
 
 By the end of the Hackathon, we tried to make:
 
-A better way of understanding the effects of radioactive isotopes in our aquifers.
+A better way of understanding health effects of radioactive isotopes in our aquifers.
 
 Our chosen pathway and why it fit:
 
@@ -127,7 +127,7 @@ Our chosen pathway and why it fit:
     For every important dataset, record who produced it, the place or geographic support it represents, the observation period, and what one value physically means. Add links and citations.
 
 | Dataset | Source | Place | Period | What it measures |
-|---|---|---|---|---|
+|https://wise-uranium.org/nfp.html||---|---|---|
 | ... | ... | ... | ... | ... |
 
 !!! warning "Public data is a boundary, not blanket permission"
