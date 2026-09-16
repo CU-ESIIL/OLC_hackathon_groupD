@@ -206,10 +206,10 @@ Methods, tools, or approaches we tried:
 
 | Level | Team statement |
 |---|---|
-| **What We Observed** | ... |
-| **What We Think** | ... |
-| **What We Don’t Know** | ... |
-| **What We Should Not Claim** | ... |
+| **What We Observed** |  |
+| **What We Think** | That there needs to be stricter rules for mining companies |
+| **What We Don’t Know** | how many of their failures are not being reported. |
+| **What We Should Not Claim** |  |
 
 ## What Didn’t Work { #what-didnt-work }
 
