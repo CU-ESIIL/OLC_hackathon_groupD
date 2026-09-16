@@ -43,9 +43,9 @@ Mining is flooding our aquifers with radioactive isotopes, and it affects our he
 | Name | Affiliation | Contact | Starting role |
 |---|---|---|---|
 |  |  |  | 
-Tonia Stands|    |    |researcher
-Sam Stands|    |     | researcher
-Harlen Standing Bear Jr|     |     |editor
+Tonia Stands|    |    |Researcher & Editor
+Sam Stands|    |     | Researcher
+Harlen Standing Bear Jr|     |     |Editor
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
 !!! note "Keep this fast"
