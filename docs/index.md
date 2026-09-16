@@ -246,7 +246,7 @@ What would strengthen or challenge our interpretation:
 
 Next technical step:
 
-...
+bring our data in front of more people so we can get 
 
 Next stewardship or collaboration step:
 
