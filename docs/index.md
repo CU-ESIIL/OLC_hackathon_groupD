@@ -127,7 +127,7 @@ Our chosen pathway and why it fit:
     For every important dataset, record who produced it, the place or geographic support it represents, the observation period, and what one value physically means. Add links and citations.
 
 | Dataset | Source | Place | Period | What it measures |
-| https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5R_77mAs8FWu4ahsAfX-CUciqfq_S1KHrd02RuXgQjnZ_j6zQ |---|---|---|---|
+| uranium minning| https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5R_77mAs8FWu4ahsAfX-CUciqfq_S1KHrd02RuXgQjnZ_j6zQ |Wyoming| 2017-2023|55% of global uranium production in 2023|
 | ... | ... | ... | ... | ... |
 
 !!! warning "Public data is a boundary, not blanket permission"
