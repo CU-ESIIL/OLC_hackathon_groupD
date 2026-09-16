@@ -127,7 +127,7 @@ Our chosen pathway and why it fit:
     For every important dataset, record who produced it, the place or geographic support it represents, the observation period, and what one value physically means. Add links and citations.
 
 | Dataset | Source | Place | Period | What it measures |
-|https://wise-uranium.org/nfp.html||---|---|---|
+|https://world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/in-situ-leach-mining-of-uranium|---|---|---|---|
 | ... | ... | ... | ... | ... |
 
 !!! warning "Public data is a boundary, not blanket permission"
