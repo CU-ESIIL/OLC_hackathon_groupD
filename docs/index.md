@@ -130,8 +130,10 @@ Our chosen pathway and why it fit:
 
 | uranium minning| https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5R_77mAs8FWu4ahsAfX-CUciqfq_S1KHrd02RuXgQjnZ_j6zQ |Wyoming| 2017-2023|55% of global uranium production in 2023|
 
-| ... | ... | ... | ... | ... |
+| injection wells | https://www.google.com/imgres?q=wyoming%20insitu%20leach%20map&imgurl=https%3A%2F%2Fwww.theupa.org%2F_resources%2Fimages%2Fimage0111.jpg&imgrefurl=https%3A%2F%2Fwww.theupa.org%2Furanium_technology%2Fin_situ_recovery%2F&docid=-i0jahWnFWfYhM&tbnid=DAjTQGVJAJe7lM&vet=12ahUKEwig3cyTvPOWAxWYJkQIHRNAMCEQnPAOegUI1gEQAA..i&w=596&h=415&hcb=2&ved=2ahUKEwig3cyTvPOWAxWYJkQIHRNAMCEQnPAOegUI1gEQAA | Nebraska | 1991-now| 11.8 million lbs of uranium.|
 
+| natural |  | ... | ... | ... |
+| Synthetic |
 !!! warning "Public data is a boundary, not blanket permission"
     This Hackathon uses public datasets so teams can focus on environmental data science, building, interpretation, and communication during a short event. Public availability does not mean the data represent every relevant perspective or authorize every interpretation or use.
 
